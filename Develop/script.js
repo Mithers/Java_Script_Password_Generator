@@ -1,4 +1,6 @@
   // Assignment Code
+
+  // This is my cool new feature
   var generateBtn = document.querySelector("#generate");
 // coousing random numbers 
   function randon_Number(min , max){
